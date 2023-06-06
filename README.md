@@ -1,6 +1,7 @@
 # [Arashnm80 Youtube](https://www.youtube.com/@Arashnm80)
 ## [HackerRank](https://www.hackerrank.com/)
 ### Python Preparation | [problems](https://www.hackerrank.com/domains/python) - [playlist](https://youtube.com/playlist?list=PLHzXiG6EUYn5luCwIrAQ_FL7oCsx65_Qd)
+![python preparation](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/playlist%20thumbnail.png)
 - Say "Hello, World!" With Python | [problem](https://www.hackerrank.com/challenges/py-hello-world) - [video](https://youtu.be/Js3py57DxXo) - [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/1.%20Say%20Hello%2C%20World%20With%20Python.py)
 - Python If-Else | [problem](https://www.hackerrank.com/challenges/py-if-else/problem) - [video](https://youtu.be/GP8_B1_oMA8) - [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/2.%20Python%20If-Else.py)
 - Arithmetic Operators | [problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) - [video](https://youtu.be/SNt3FzzvY6o) - [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/3.%20Arithmetic%20Operators.py)
