@@ -1,6 +1,6 @@
 # [Arashnm80 Youtube](https://www.youtube.com/@Arashnm80)
 ## [HackerRank](https://www.hackerrank.com/)
-### Python Preparation | [problems](https://www.hackerrank.com/domains/python) - [playlist](https://youtube.com/playlist?list=PLHzXiG6EUYn5luCwIrAQ_FL7oCsx65_Qd)
+### Python Solutions | [problems](https://www.hackerrank.com/domains/python) - [playlist](https://youtube.com/playlist?list=PLHzXiG6EUYn5luCwIrAQ_FL7oCsx65_Qd)
 ![python preparation](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/playlist%20thumbnail.png)
 | Title | Problem | Video | Code |
 | --- | --- | --- | --- |
@@ -42,3 +42,4 @@
 | 36. Collections.namedtuple() | [problem](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true) | [video](https://youtu.be/xKLZPQCuTAg) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/36.%20Collections.namedtuple().py) |
 | 37. Time Delta | [prolem](https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true) | [video](https://youtu.be/db9x23H8kWU) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/37.%20Time%20Delta.py) |
 | 38. Find Angle MBC | [problem](https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true) | [video](https://youtu.be/O_RCdTnsma0) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/38.%20Find%20Angle%20MBC.py) |
+| 39. No Idea | [problem](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | [video](https://youtu.be/QtKRCmIaqow) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/39.%20No%20Idea.py) |
