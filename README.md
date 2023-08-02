@@ -45,3 +45,7 @@
 | 39. No Idea | [problem](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | [video](https://youtu.be/QtKRCmIaqow) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/39.%20No%20Idea.py) |
 | 40. Collections.OrderedDict() | [problem](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true) | [video](https://youtu.be/vi3nCM3tsBg) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/40.%20Collections.OrderedDict().py) |
 | 41. Symmetric Difference | [problem](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true) | [video](https://youtu.be/dHIgkkE4qnQ) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/41.%20Symmetric%20Difference.py) |
+
+# محتوای یوتیوب فارسی
+## ویدیو های عمومی
+- آشنایی با CMD در ویندوز: https://youtu.be/iuoCGbLy08w
