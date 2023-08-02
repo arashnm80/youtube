@@ -49,3 +49,4 @@
 # محتوای یوتیوب فارسی
 ## ویدیو های عمومی
 - آشنایی با CMD در ویندوز: https://youtu.be/iuoCGbLy08w
+- اشنایی با ترمینال در لینوکس: https://youtu.be/NTXqulFaEJk
