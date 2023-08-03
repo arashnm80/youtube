@@ -50,3 +50,5 @@
 ## ویدیو های عمومی
 - آشنایی با CMD در ویندوز: https://youtu.be/iuoCGbLy08w
 - اشنایی با ترمینال در لینوکس: https://youtu.be/NTXqulFaEJk
+- آشنایی با کد اسپیسز گیتهاب | Github Codespaces Introduction :
+https://youtu.be/rFOsjy04OK4
