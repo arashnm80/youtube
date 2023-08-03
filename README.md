@@ -1,4 +1,4 @@
-# [My Youtube Channel Contents](https://www.youtube.com/@Arashnm80)
+# [Main Youtube Channel Contents](https://www.youtube.com/@Arashnm80)
 ## HackerRank
 ### Python Solutions | [problems](https://www.hackerrank.com/domains/python) - [playlist](https://youtube.com/playlist?list=PLHzXiG6EUYn5luCwIrAQ_FL7oCsx65_Qd) - [codes](https://github.com/arashnm80/youtube/tree/main/HackerRank/python-preparation)
 ![python preparation](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/playlist%20thumbnail.png)
@@ -46,7 +46,7 @@
 | 40. Collections.OrderedDict() | [problem](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true) | [video](https://youtu.be/vi3nCM3tsBg) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/40.%20Collections.OrderedDict().py) |
 | 41. Symmetric Difference | [problem](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true) | [video](https://youtu.be/dHIgkkE4qnQ) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/41.%20Symmetric%20Difference.py) |
 
-# [My Persian Channel Contents | محتوای کانال یوتیوب فارسی من](https://www.youtube.com/@Arashnm80_Persian)
+# [Persian Channel Contents | محتوای کانال یوتیوب فارسی](https://www.youtube.com/@Arashnm80_Persian)
 ## مهارت های یک برنامه نویس
 - آشنایی با CMD در ویندوز: https://youtu.be/iuoCGbLy08w
 - اشنایی با ترمینال در لینوکس: https://youtu.be/NTXqulFaEJk
