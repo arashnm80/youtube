@@ -52,3 +52,7 @@
 - اشنایی با ترمینال در لینوکس: https://youtu.be/NTXqulFaEJk
 - آشنایی با کد اسپیسز گیتهاب | Github Codespaces Introduction :
 https://youtu.be/rFOsjy04OK4
+## دوره آموزش جنگو
+| شماره | عنوان | ویدیو |
+| :---: | --- | --- |
+| 1 | پروژه، ویو، اپلیکشین | [ویدیو](https://youtu.be/owDKlugtijc) |
