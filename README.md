@@ -46,6 +46,11 @@
 | 40. Collections.OrderedDict() | [problem](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true) | [video](https://youtu.be/vi3nCM3tsBg) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/40.%20Collections.OrderedDict().py) |
 | 41. Symmetric Difference | [problem](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true) | [video](https://youtu.be/dHIgkkE4qnQ) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/41.%20Symmetric%20Difference.py) |
 
+## Contests Introduction
+| Contest | Video |
+| --- | --- |
+| Win 30,000 Toncoins in TON Smart Challenge 4 | [video](https://youtu.be/ACsGxZ7f0cM) |
+
 # [Persian Channel Contents | محتوای کانال یوتیوب فارسی](https://www.youtube.com/@Arashnm80_Persian)
 ## مهارت های یک برنامه نویس
 - آشنایی با CMD در ویندوز: https://youtu.be/iuoCGbLy08w
