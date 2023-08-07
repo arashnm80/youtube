@@ -1,4 +1,4 @@
-# [Main Youtube Channel Contents](https://www.youtube.com/@Arashnm80)
+# [Main Youtube Channel](https://www.youtube.com/@Arashnm80)
 ## HackerRank
 ### Python Solutions | [problems](https://www.hackerrank.com/domains/python) - [playlist](https://youtube.com/playlist?list=PLHzXiG6EUYn5luCwIrAQ_FL7oCsx65_Qd) - [codes](https://github.com/arashnm80/youtube/tree/main/HackerRank/python-preparation)
 ![python preparation](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/playlist%20thumbnail.png)
@@ -59,7 +59,7 @@
 
 
 
-# [Persian Channel Contents | محتوای کانال یوتیوب فارسی](https://www.youtube.com/@Arashnm80_Persian)
+# [Persian YouTube Channel | کانال یوتیوب فارسی](https://www.youtube.com/@Arashnm80_Persian)
 ## مهارت های یک برنامه نویس
 | عنوان | ویدیو |
 | :---: | :---: |
