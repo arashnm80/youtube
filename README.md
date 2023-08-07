@@ -53,10 +53,11 @@
 
 # [Persian Channel Contents | محتوای کانال یوتیوب فارسی](https://www.youtube.com/@Arashnm80_Persian)
 ## مهارت های یک برنامه نویس
-- آشنایی با CMD در ویندوز: https://youtu.be/iuoCGbLy08w
-- اشنایی با ترمینال در لینوکس: https://youtu.be/NTXqulFaEJk
-- آشنایی با کد اسپیسز گیتهاب | Github Codespaces Introduction :
-https://youtu.be/rFOsjy04OK4
+| عنوان | ویدیو |
+| --- | --- |
+| آشنایی با CMD در ویندوز | https://youtu.be/iuoCGbLy08w |
+| اشنایی با ترمینال در لینوکس | https://youtu.be/NTXqulFaEJk |
+| آشنایی با کد اسپیسز گیتهاب | https://youtu.be/rFOsjy04OK4 |
 ## معرفی مسابقات
 | عنوان | ویدیو |
 | --- | --- |
