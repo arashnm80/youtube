@@ -52,6 +52,10 @@
 - اشنایی با ترمینال در لینوکس: https://youtu.be/NTXqulFaEJk
 - آشنایی با کد اسپیسز گیتهاب | Github Codespaces Introduction :
 https://youtu.be/rFOsjy04OK4
+## معرفی مسابقات
+| عنوان | ویدیو |
+| --- | --- |
+| TON Smart Challenge #4 | [ویدیو](https://youtu.be/_qs49xvuOwM) |
 ## دوره آموزش جنگو
 | شماره | عنوان | ویدیو |
 | :---: | --- | --- |
