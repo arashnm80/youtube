@@ -47,23 +47,23 @@
 | 41. Symmetric Difference | [problem](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true) | [video](https://youtu.be/dHIgkkE4qnQ) | [code](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/41.%20Symmetric%20Difference.py) |
 
 ## Contests Introduction
-| Contest | Video |
-| --- | --- |
-| Win 30,000 Toncoins in TON Smart Challenge 4 | [video](https://youtu.be/ACsGxZ7f0cM) |
+| Contest | Video | Date |
+| :--- | :---: | :---: |
+| Win 30,000 Toncoins in TON Smart Challenge 4 | [video](https://youtu.be/ACsGxZ7f0cM) | 2023-08-07 |
 
 # [Persian Channel Contents | محتوای کانال یوتیوب فارسی](https://www.youtube.com/@Arashnm80_Persian)
 ## مهارت های یک برنامه نویس
 | عنوان | ویدیو |
-| --- | --- |
-| آشنایی با CMD در ویندوز | https://youtu.be/iuoCGbLy08w |
-| اشنایی با ترمینال در لینوکس | https://youtu.be/NTXqulFaEJk |
-| آشنایی با کد اسپیسز گیتهاب | https://youtu.be/rFOsjy04OK4 |
+| :---: | :---: |
+| ‫آشنایی با cmd در ویندوز | [ویدیو](https://youtu.be/iuoCGbLy08w) |
+| ‫اشنایی با ترمینال در لینوکس | [ویدیو](https://youtu.be/NTXqulFaEJk) |
+| ‫آشنایی با Github Codespaces | [ویدیو](https://youtu.be/rFOsjy04OK4) |
 ## معرفی مسابقات
-| عنوان | ویدیو |
-| --- | --- |
-| TON Smart Challenge #4 | [ویدیو](https://youtu.be/_qs49xvuOwM) |
+| عنوان | ویدیو | تاریخ |
+| :---: | :---: | :---: |
+| TON Smart Challenge #4 | [ویدیو](https://youtu.be/_qs49xvuOwM) | 1402-05-16 |
 ## دوره آموزش جنگو
 | شماره | عنوان | ویدیو |
-| :---: | --- | --- |
+| :---: | :---: | :---: |
 | 1 | پروژه، ویو، اپلیکشین | [ویدیو](https://youtu.be/owDKlugtijc) |
 | 2 | دیتابیس، مدل، ادمین | [ویدیو](https://youtu.be/Qfe58ExquKE) |
