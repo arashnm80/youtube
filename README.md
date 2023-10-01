@@ -50,7 +50,7 @@
 | Contest | Video | Date |
 | :--- | :---: | :---: |
 | Win 30,000 Toncoins in TON Smart Challenge 4 | [video](https://youtu.be/ACsGxZ7f0cM) | 2023-08-07 |
-
+| TON October Challenges | [video](https://youtu.be/EkbjAcdHX_M) | 2023-10-01 |
 
 
 
@@ -70,6 +70,8 @@
 | عنوان | ویدیو | تاریخ |
 | :---: | :---: | :---: |
 | TON Smart Challenge #4 | [ویدیو](https://youtu.be/_qs49xvuOwM) | 1402-05-16 |
+| TON October Challenges | [ویدیو](https://www.youtube.com/@Arashnm80_Persian) | 1402-07-09 |
+
 ## دوره آموزش جنگو
 | شماره | عنوان | ویدیو |
 | :---: | :---: | :---: |
