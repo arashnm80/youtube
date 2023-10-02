@@ -1,4 +1,4 @@
-# [Main Youtube Channel](https://www.youtube.com/@Arashnm80)
+# [Arash Nemat Zadeh | Main Youtube Channel](https://www.youtube.com/@Arashnm80)
 ## HackerRank
 ### Python Solutions | [problems](https://www.hackerrank.com/domains/python) - [playlist](https://youtube.com/playlist?list=PLHzXiG6EUYn5luCwIrAQ_FL7oCsx65_Qd) - [codes](https://github.com/arashnm80/youtube/tree/main/HackerRank/python-preparation)
 ![python preparation](https://github.com/arashnm80/youtube/blob/main/HackerRank/python-preparation/playlist%20thumbnail.png)
