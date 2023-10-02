@@ -52,12 +52,12 @@
 | Win 30,000 Toncoins in TON Smart Challenge 4 | [video](https://youtu.be/ACsGxZ7f0cM) | 2023-08-07 |
 | TON October Challenges | [video](https://youtu.be/EkbjAcdHX_M) | 2023-10-01 |
 
-
+<br><br><br>
 
 ---
+---
 
-
-
+<br><br><br>
 
 # [Persian YouTube Channel | کانال یوتیوب فارسی](https://www.youtube.com/@Arashnm80_Persian)
 ## مهارت های یک برنامه نویس
