@@ -52,6 +52,11 @@
 | Win 30,000 Toncoins in TON Smart Challenge 4 | [video](https://youtu.be/ACsGxZ7f0cM) | 2023-08-07 |
 | TON October Challenges | [video](https://youtu.be/EkbjAcdHX_M) | 2023-10-01 |
 
+## General Tutorials
+| Contest | Video | Date |
+| :--- | :---: | :---: |
+| Best way to insert many images in excel | [video](https://youtu.be/W8qwcFdJG10) | 2023-10-03 |
+
 <br><br><br>
 
 ---
