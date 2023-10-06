@@ -74,8 +74,9 @@
 ## معرفی مسابقات
 | عنوان | ویدیو | تاریخ |
 | :---: | :---: | :---: |
-| TON Smart Challenge #4 | [ویدیو](https://youtu.be/_qs49xvuOwM) | 1402-05-16 |
-| TON October Challenges | [ویدیو](https://www.youtube.com/@Arashnm80_Persian) | 1402-07-09 |
+| تون اسمارت چلنج 4 | [ویدیو](https://youtu.be/_qs49xvuOwM) | 1402-05-16 |
+| چالش های ماه اکتبر تون | [ویدیو](https://www.youtube.com/@Arashnm80_Persian) | 1402-07-09 |
+| مسابقه یادگیری ماشین تلگرام - 40,000 دلار برای تشخیص زبان برنامه نویسی | [ویدئو](https://youtu.be/PkY14X7ecSQ) | 1402-07-14
 
 ## دوره آموزش جنگو
 | شماره | عنوان | ویدیو |
