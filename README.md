@@ -51,6 +51,7 @@
 | :--- | :---: | :---: |
 | Win 30,000 Toncoins in TON Smart Challenge 4 | [video](https://youtu.be/ACsGxZ7f0cM) | 2023-08-07 |
 | TON October Challenges | [video](https://youtu.be/EkbjAcdHX_M) | 2023-10-01 |
+| ML Competition 2023 - $40,000 prize fund | [video](https://youtu.be/SWwXajHNt44) | 2023-10-06
 
 ## General Tutorials
 | Contest | Video | Date |
