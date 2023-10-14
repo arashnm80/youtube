@@ -51,7 +51,8 @@
 | :--- | :---: | :---: |
 | Win 30,000 Toncoins in TON Smart Challenge 4 | [video](https://youtu.be/ACsGxZ7f0cM) | 2023-08-07 |
 | TON October Challenges | [video](https://youtu.be/EkbjAcdHX_M) | 2023-10-01 |
-| ML Competition 2023 - $40,000 prize fund | [video](https://youtu.be/SWwXajHNt44) | 2023-10-06
+| ML Competition 2023 - $40,000 prize fund | [video](https://youtu.be/SWwXajHNt44) | 2023-10-06 |
+| Telegram App Icon Competition - $10,000 prize pool | [video](https://youtu.be/9Jp1FLxmWVQ) | 2023-10-14 |
 
 ## General Tutorials
 | Contest | Video | Date |
@@ -77,7 +78,8 @@
 | :---: | :---: | :---: |
 | تون اسمارت چلنج 4 | [ویدیو](https://youtu.be/_qs49xvuOwM) | 1402-05-16 |
 | چالش های ماه اکتبر تون | [ویدیو](https://www.youtube.com/@Arashnm80_Persian) | 1402-07-09 |
-| مسابقه یادگیری ماشین تلگرام - 40,000 دلار برای تشخیص زبان برنامه نویسی | [ویدئو](https://youtu.be/PkY14X7ecSQ) | 1402-07-14
+| مسابقه یادگیری ماشین تلگرام - 40,000 دلار برای تشخیص زبان برنامه نویسی | [ویدئو](https://youtu.be/PkY14X7ecSQ) | 1402-07-14 |
+| مسابقه طراحی آیکون تلگرام - 10,000 دلار جایزه | [ویدئو](https://youtu.be/Jq_2VhjxhcI) | 1402-07-23 |
 
 ## دوره آموزش جنگو
 | شماره | عنوان | ویدیو |
